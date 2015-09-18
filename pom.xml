@@ -7,6 +7,11 @@
     <groupId>cn.smscode</groupId>
     <artifactId>smscode-java</artifactId>
     <version>1.0</version>
+    <packaging>jar</packaging>
+
+    <name>${project.groupId}:${project.artifactId}</name>
+    <description>smscode.cn 短信接口服务实现.</description>
+    <url>https://github.com/smscode/smscode-java</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
