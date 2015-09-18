@@ -1,6 +1,6 @@
 # smscode-java
 
-该repo作为<smscode.cn>短信接口的插件包；
+该repo作为`<smscode.cn>`短信接口的插件包；
 
 ## 接口文档
 
